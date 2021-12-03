@@ -4,9 +4,14 @@ To recognize facial expression from candid, non-posed images, I have proposed a 
 
 The structure of our proposed CNN-based approach is described, and a data augmentation technique is provided in order to generate sufficient number of training samples. The performance using the feature-based approaches is close to the state of the art when tested with standard datasets, but fails to function well when dealing with candid images. The experimentation shows that the CNN-based approach is very effective in candid image expression recognition, significantly outperforming the baseline approaches, by a 82% Validation Accuracy & 100% Training Accuracy.
 
-Keyword:- Face recognition, Image recognition, Training, Face, Neural networks, Feature extraction, Computational modeling.
+![image](https://user-images.githubusercontent.com/62097113/144572032-441fe2fa-bc77-4a3e-a2e1-bd872af45616.png)
 
-Reference:
+
+![image](https://user-images.githubusercontent.com/62097113/144571944-bf7569eb-dd85-431c-9e56-f8ceff01882c.png)
+
+**Keyword:-** Face recognition, Image recognition, Training, Face, Neural networks, Feature extraction, Computational modeling.
+
+**Reference:**
 
 1. Y. Jia, Caffe: An open source convolutional architecture for fast feature embedding, 2013, [online] Available: http://caffe.berke-leyvision.org.
 
@@ -15,3 +20,7 @@ Reference:
 3. C. Shan, S. Gong and P. W. McOwan, "Facial expression recognition based on local binary patterns: A comprehensive study", Image Vision Comput., vol. 27, no. 6, pp. 803-816.
 
 4. Y. Sun, X. Wang and X. Tang, "Deep learning face representation from predicting 10", 000 classes. CVPR, 2014.
+
+5. M. Valstar and M. Pantic, "Induced disgust happiness and surprise: an addition to the mmi facial expression database", Proc. Intel Conf. Language Resources and Evaluation Workshop on EMOTION, pp. 65-70, 2010.
+
+
