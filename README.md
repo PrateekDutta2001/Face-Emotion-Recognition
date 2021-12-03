@@ -27,7 +27,12 @@ The structure of our proposed CNN-based approach is described, and a data augmen
 
 5. M. Valstar and M. Pantic, "Induced disgust happiness and surprise: an addition to the mmi facial expression database", Proc. Intel Conf. Language Resources and Evaluation Workshop on EMOTION, pp. 65-70, 2010.
 
+**Other Detail:**
 
-This project has been developed by Prateek Duttta for the purpose of institutional project.
+This project has been developed by Prateek Duttta for the purpose of institutional project. Further Model Deployement is on process.
 
-Dataset can be shared on requirement basis for educational purpose only. Candidate with requirement can mail at (dutta_prateek.ai@ghrce.raisoni.net) by mentioning the designation and current role with proper identity card in attachment.
+Dataset can be shared on requirement basis for educational purpose only. Candidate with requirement can mail at (dutta_prateek.ai@ghrce.raisoni.net) by mentioning the designation and current role with proper identity card in attachment. 
+
+For project Collaboration, contact my mentioning suitable details with resume attachment.
+
+Thank You, Have a Nice Day!
