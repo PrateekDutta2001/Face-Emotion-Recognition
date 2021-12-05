@@ -29,7 +29,7 @@ The structure of our proposed CNN-based approach is described, and a data augmen
 
 **Other Detail:**
 
-This project has been developed by Prateek Duttta for the purpose of institutional project. Further Model Deployement is on process.
+This project has been developed by Prateek Dutta for the purpose of institutional project. Further Model Deployement is on process.
 
 Dataset can be shared on requirement basis for educational purpose only. Candidate with requirement can mail at (dutta_prateek.ai@ghrce.raisoni.net) by mentioning the designation and current role with proper identity card in attachment. 
 
